@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Contacts</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="nameHint">Name</string>
+    <string name="phoneNo">Phone No</string>
+    <string name="btnName">Create</string>
+    <string name="title_activity_main2">Contact Details</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
